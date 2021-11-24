@@ -1,0 +1,6 @@
+to check which branch
+
+D:\MyGit>git branch
+  master
+* module1
+//module1 branch
